@@ -1,4 +1,4 @@
-<h2> Sending Email in Java through Gmail Server </h2>
+<h2> Sending Email using Java Automation: Gmail Server </h2>
 
 
 Platform supporting Maven: [IntelliJ IDEA CE](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC)
