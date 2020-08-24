@@ -146,12 +146,13 @@ Let's run the "JavaMail" class. We get following result:
 
 
 <p align="center">
-	<img width="700px" src="Image/gmail1.png" align="center"/>
+	<img width="900px" src="Image/gmail1.png" align="center"/>
 	<br>
 	<br>
-	<img width="700px" src="Image/gmail2.png" align="center"/>
+	<img width="900px" src="Image/gmail2.png" align="center"/>
 </p>
 
+The program run successfully. Make sure you check the inbox whether receiver got any email or not.
 
 <b>Thank you. Let me know if you have any questions.</b>
 
