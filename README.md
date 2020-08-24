@@ -149,7 +149,7 @@ Let's run the "JavaMail" class. We get following result:
 	<img width="900px" src="Image/gmail1.png" align="center"/>
 	<br>
 	<br>
-	<img width="900px" src="" align="center"/>
+	<img width="900px" src="Image/gmailpass.png" align="center"/>
 </p>
 
 The program run successfully. Make sure you check the inbox whether receiver got any email or not.
