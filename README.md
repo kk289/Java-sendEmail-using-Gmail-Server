@@ -153,5 +153,5 @@ Let's run the "JavaMail" class. We get following result:
 </p>
 
 
-<b>Thank you!</b>
+<b>Thank you. Let me know if you have any questions.</b>
 
