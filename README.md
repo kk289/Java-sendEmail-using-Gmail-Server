@@ -132,6 +132,8 @@ Now we need main file to run this program. Go to JavaMail class.
 
 ## JavaMail
 
+Here we need to add gmail of receiver account. We add multiple email too. Let's run the "JavaMail" class. We get following result: 
+
 ```
 package sendMail;
 
@@ -141,9 +143,6 @@ public class JavaMail {
     }
 }
 ```
-
-Let's run the "JavaMail" class. We get following result: 
-
 
 <p align="center">
 	<img width="900px" src="Image/gmail1.png" align="center"/>
